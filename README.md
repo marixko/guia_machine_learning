@@ -19,6 +19,6 @@ Este é um projeto de longo prazo que venho idealizando há um tempo, visto que 
 
 ## Quero colaborar, como faço?
 
-Primeiramente, obrigada por acreditar nessa ideia! Sinta-se à vontade de entrar em contato comigo (lilianne.nakazono@usp.br) enquanto ainda não há material sobre como usar Git/GitHub. Se você já está familiarizado com a ferramenta, faça um fork deste repositório e crie um pull request. 
+Primeiramente, obrigada por acreditar nessa ideia! Sinta-se à vontade de entrar em contato comigo (lilianne.nakazono@usp.br) enquanto ainda não há material aqui sobre como usar Git/GitHub. Se você já está familiarizado com a ferramenta, faça um fork deste repositório e crie um pull request. 
 
 
